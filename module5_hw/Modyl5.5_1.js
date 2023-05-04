@@ -1,0 +1,10 @@
+		let numb = [62, 39, 26, 58, 39, 96, 1];
+		console.log(numb.length);
+		console.log(numb[0]);
+		console.log(numb[1]);
+		console.log(numb[2]);
+		console.log(numb[3]);
+		console.log(numb[4]);
+		console.log(numb[5]);
+		console.log(numb[6]);
+		console.log(numb[7]);

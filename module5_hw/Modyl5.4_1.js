@@ -1,0 +1,13 @@
+		let text = prompt('Привет, какой сегодня день недели?');
+		let letter0 = ( text.slice(0, 1) );
+		let letter1 = ( text.slice(1, 2) );
+		let letter2 = ( text.slice(2, 3) );
+		let letter3 = ( text.slice(3, 4) );
+		let letter4 = ( text.slice(4, 5) );
+		let letter5 = ( text.slice(5, 6) );
+		let letter6 = ( text.slice(6, 7) );
+		let letter7 = ( text.slice(7, 8) );
+		let letter8 = ( text.slice(8, 9) );
+		let letter9 = ( text.slice(9, 10) );
+		let letter10 = ( text.slice(10, 11) );
+		console.log(`${letter10}${letter9}${letter8}${letter7}${letter6}${letter5}${letter4}${letter3}${letter2}${letter1}${letter0}`);
